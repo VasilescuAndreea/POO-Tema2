@@ -230,6 +230,33 @@ Abonat_Skype_Romania.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled7.dir\build.make CMakeFiles/untitled7.dir/Abonat_Skype_Romania.cpp.s
 .PHONY : Abonat_Skype_Romania.cpp.s
 
+Agenda.obj: Agenda.cpp.obj
+
+.PHONY : Agenda.obj
+
+# target to build an object file
+Agenda.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled7.dir\build.make CMakeFiles/untitled7.dir/Agenda.cpp.obj
+.PHONY : Agenda.cpp.obj
+
+Agenda.i: Agenda.cpp.i
+
+.PHONY : Agenda.i
+
+# target to preprocess a source file
+Agenda.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled7.dir\build.make CMakeFiles/untitled7.dir/Agenda.cpp.i
+.PHONY : Agenda.cpp.i
+
+Agenda.s: Agenda.cpp.s
+
+.PHONY : Agenda.s
+
+# target to generate assembly for a file
+Agenda.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled7.dir\build.make CMakeFiles/untitled7.dir/Agenda.cpp.s
+.PHONY : Agenda.cpp.s
+
 Persoana.obj: Persoana.cpp.obj
 
 .PHONY : Persoana.obj
@@ -305,6 +332,9 @@ help:
 	@echo ... Abonat_Skype_Romania.obj
 	@echo ... Abonat_Skype_Romania.i
 	@echo ... Abonat_Skype_Romania.s
+	@echo ... Agenda.obj
+	@echo ... Agenda.i
+	@echo ... Agenda.s
 	@echo ... Persoana.obj
 	@echo ... Persoana.i
 	@echo ... Persoana.s

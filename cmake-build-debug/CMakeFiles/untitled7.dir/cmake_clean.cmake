@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled7.dir/Abonat_Skype.cpp.obj"
   "CMakeFiles/untitled7.dir/Abonat_Skype_Extern.cpp.obj"
   "CMakeFiles/untitled7.dir/Abonat_Skype_Romania.cpp.obj"
+  "CMakeFiles/untitled7.dir/Agenda.cpp.obj"
   "CMakeFiles/untitled7.dir/Persoana.cpp.obj"
   "CMakeFiles/untitled7.dir/main.cpp.obj"
   "libuntitled7.dll.a"

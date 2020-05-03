@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string.h>
-#include "Entities.h"
+#include "Abonat_Skype_Romania.h"
+#include "Abonat_Skype_Extern.h"
+using namespace std;
 
 int citeste_id() {
     int id;
@@ -49,14 +51,14 @@ string citeste_tara() {
 
 int main() {
 
-    Abonat_skype_romania asr;
+    Abonat_Skype_Romania asr;
     asr.set_id(citeste_id());
     asr.set_nume(citeste_nume());
     asr.set_nr_telefon(citeste_tel());
     asr.set_id_skype(citeste_ids());
     asr.set_mail(citeste_mail());
 
-    Abonat_skype_extern ase;
+    Abonat_Skype_Extern ase;
     ase.set_id(citeste_id());
     ase.set_nume(citeste_nume());
     ase.set_nr_telefon(citeste_tel());
