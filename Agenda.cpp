@@ -3,3 +3,6 @@
 //
 
 #include "Agenda.h"
+
+Agenda :: Agenda() = default;
+

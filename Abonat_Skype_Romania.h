@@ -8,16 +8,10 @@ private:
     std::string mail;
     Abonat_Skype abs_ro;
 public:
-    Abonat_Skype_Romania(std::string m){
-        this->mail=m;
-    }
-
-    Abonat_Skype_Romania(){
-    }
-
-    void set_mail(std::string newMail){
-        this->mail=newMail;
-    }
+    Abonat_Skype_Romania();
+    Abonat_Skype_Romania(std::string m);
+    void set_mail(std::string newMail);
+    friend void operator >> (std :: istream& in, Abonat_Skype_Romania& asr);
 };
 
 

@@ -8,17 +8,10 @@ private:
     std::string tara;
     Abonat_Skype abs_ext;
 public:
-    Abonat_Skype_Extern(std::string t){
-        this->tara=t;
-    }
-
-    Abonat_Skype_Extern(){
-
-    }
-
-    void set_tara(std::string newTara){
-        this->tara=newTara;
-    }
+    Abonat_Skype_Extern();
+    Abonat_Skype_Extern(std::string t);
+    void set_tara(std::string newTara);
+    friend void operator >> (std :: istream& in, Abonat_Skype_Extern& ase);
 };
 
 #endif //UNTITLED7_ABONAT_SKYPE_EXTERN_H
