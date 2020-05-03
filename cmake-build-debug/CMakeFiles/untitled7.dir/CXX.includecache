@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/entities.h
+iostream
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/main.cpp
+iostream
+-
+string.h
+-
+Entities.h
+C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/entities.h
+
