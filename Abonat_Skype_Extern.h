@@ -5,7 +5,7 @@
 
 class Abonat_Skype_Extern:public Abonat_Skype{
 private:
-    std:string tara;
+    std::string tara;
     Abonat_Skype abs_ext;
 public:
     Abonat_Skype_Extern(std::string t){
