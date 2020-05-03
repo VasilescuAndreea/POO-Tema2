@@ -11,7 +11,7 @@ public:
     Abonat_Skype();
     Abonat_Skype(std::string ida);
     void set_id_skype(std::string newId);
-
+    std::string get_id_skype();
 };
 
 

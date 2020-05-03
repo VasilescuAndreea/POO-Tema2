@@ -23,6 +23,7 @@ CMakeFiles/untitled7.dir/Abonat_Skype_Romania.cpp.obj: ../Abonat_Skype_Romania.h
 CMakeFiles/untitled7.dir/Abonat_Skype_Romania.cpp.obj: ../Persoana.h
 
 CMakeFiles/untitled7.dir/Agenda.cpp.obj: ../Abonat.h
+CMakeFiles/untitled7.dir/Agenda.cpp.obj: ../Abonat_Skype.h
 CMakeFiles/untitled7.dir/Agenda.cpp.obj: ../Agenda.cpp
 CMakeFiles/untitled7.dir/Agenda.cpp.obj: ../Agenda.h
 CMakeFiles/untitled7.dir/Agenda.cpp.obj: ../Persoana.h
@@ -34,6 +35,7 @@ CMakeFiles/untitled7.dir/main.cpp.obj: ../Abonat.h
 CMakeFiles/untitled7.dir/main.cpp.obj: ../Abonat_Skype.h
 CMakeFiles/untitled7.dir/main.cpp.obj: ../Abonat_Skype_Extern.h
 CMakeFiles/untitled7.dir/main.cpp.obj: ../Abonat_Skype_Romania.h
+CMakeFiles/untitled7.dir/main.cpp.obj: ../Agenda.h
 CMakeFiles/untitled7.dir/main.cpp.obj: ../Persoana.h
 CMakeFiles/untitled7.dir/main.cpp.obj: ../main.cpp
 

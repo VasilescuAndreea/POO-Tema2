@@ -6,17 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.cpp
-Abonat.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.h
-
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.h
 Persoana.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Persoana.h
-
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.cpp
-Abonat_Skype.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.h
 
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.h
 Abonat.h
@@ -24,35 +16,19 @@ C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.h
 iostream
 -
 
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Extern.cpp
-Abonat_Skype_Extern.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Extern.h
-
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Extern.h
 Abonat_Skype.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.h
-
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Romania.cpp
-Abonat_Skype_Romania.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Romania.h
 
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Romania.h
 Abonat_Skype.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.h
 
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Agenda.cpp
-Agenda.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Agenda.h
-
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Agenda.h
+Abonat_Skype.h
+C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype.h
 Abonat.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.h
-Abonat.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat.h
-
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Persoana.cpp
-Persoana.h
-C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Persoana.h
 
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Persoana.h
 string
@@ -63,10 +39,12 @@ iostream
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/main.cpp
 iostream
 -
-string.h
+fstream
 -
 Abonat_Skype_Romania.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Romania.h
 Abonat_Skype_Extern.h
 C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Abonat_Skype_Extern.h
+Agenda.h
+C:/Users/User/Desktop/CLionProjects/POO-Tema2-V2/Agenda.h
 

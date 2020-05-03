@@ -11,7 +11,9 @@ private:
 
 public:
     Persoana();
+
     Persoana(int id, std::string nume);
+
     int get_id();
     std::string get_nume();
     void set_id(int newId);

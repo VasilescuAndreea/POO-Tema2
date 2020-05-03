@@ -1,11 +1,17 @@
 #include "Abonat_Skype_Extern.h"
 
-Abonat_Skype_Extern :: Abonat_Skype_Extern() = default;
+Abonat_Skype_Extern :: Abonat_Skype_Extern(){
+
+}
 Abonat_Skype_Extern :: Abonat_Skype_Extern(std::string t){
 this->tara=t;
 }
 void Abonat_Skype_Extern :: set_tara(std::string newTara){
     this->tara=newTara;
+}
+
+std::string Abonat_Skype_Extern :: get_tara(){
+    return this->tara;
 }
 
 void operator>>(std::istream &in, Abonat_Skype_Extern &ase) {

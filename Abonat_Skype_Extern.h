@@ -10,7 +10,9 @@ private:
 public:
     Abonat_Skype_Extern();
     Abonat_Skype_Extern(std::string t);
+
     void set_tara(std::string newTara);
+    std::string get_tara();
     friend void operator >> (std :: istream& in, Abonat_Skype_Extern& ase);
 };
 

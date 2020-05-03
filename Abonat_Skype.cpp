@@ -10,3 +10,7 @@ void Abonat_Skype :: set_id_skype(std::string newId){
     this->id_skype=newId;
 }
 
+std :: string Abonat_Skype :: get_id_skype(){
+    return this->id_skype;
+}
+
