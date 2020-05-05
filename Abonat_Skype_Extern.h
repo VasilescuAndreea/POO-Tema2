@@ -9,10 +9,11 @@ private:
     Abonat_Skype abs_ext;
 public:
     Abonat_Skype_Extern();
-    Abonat_Skype_Extern(std::string t);
+    Abonat_Skype_Extern(int id, std::string nume, std::string telefon, std::string id_skype, std::string tara);
 
     void set_tara(std::string newTara);
     std::string get_tara();
+    friend std::ostream& operator << (std::ostream& out , Abonat_Skype_Extern *ase);
     friend void operator >> (std :: istream& in, Abonat_Skype_Extern& ase);
 };
 
